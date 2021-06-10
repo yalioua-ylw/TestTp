@@ -1,0 +1,7 @@
+# Project exclude paths
+/gui/target/
+/launcher/target/
+/lookup/target/
+/player/target/
+/TimeService/target/
+/TimeServiceImpl/target/

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lookup" />
+        <module name="TimeServiceImpl" />
+        <module name="TimeService" />
+        <module name="gui" />
+        <module name="launcher" />
+        <module name="player" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ControlerListener" target="8" />
+      <module name="rebot" target="8" />
+      <module name="state" target="8" />
+      <module name="traitement" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
